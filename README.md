@@ -3,13 +3,14 @@
 <br>
 
 <h2>Installation</h2>
-<p>To get started with the Expenses App, you'll need to have Node.js and npm installed on your computer. Once you have those set up, follow these steps:
-
-Clone the repository to your local machine.
-Open your terminal and navigate to the project directory.
-Run npm install to install all dependencies.
-Run npm start to start the development server.
-Navigate to http://localhost:3000 in your web browser to see the app in action.</P>
+<p>To get started with the Expenses App, you'll need to have Node.js and npm installed on your computer. Once you have those set up, follow these steps:</p>
+  <li>
+    <ol>Clone the repository to your local machine.</ol>
+    <ol>Open your terminal and navigate to the project directory.</ol>
+    <ol>Run npm install to install all dependencies.</ol>
+    <ol>Run npm start to start the development server.</ol>
+    <ol>Navigate to http://localhost:3000 in your web browser to see the app in action.</ol>
+  </li>
 <h2>Usage</h2>
 <p>To add an expense, simply enter the title, amount and date in the input fields and click the "Add Expense" button.
 
