@@ -1,5 +1,5 @@
-<h1>Expenses App<h1>
-This is a simple expenses app built using React. It allows users to keep track of their expenses by adding and removing items from a list. The app also displays the total amount spent and the percentage of each expense in relation to the total.
+<h1>Expenses App</h1>
+<p>This is a simple expenses app built using React. It allows users to keep track of their expenses by adding and removing items from a list. The app also displays the total amount spent and the percentage of each expense in relation to the total.
 
 Installation
 To get started with the Expenses App, you'll need to have Node.js and npm installed on your computer. Once you have those set up, follow these steps:
@@ -27,3 +27,4 @@ React
 Bootstrap
 Font Awesome
 Thank you to the developers of these libraries for making this app possible.
+  </P>
